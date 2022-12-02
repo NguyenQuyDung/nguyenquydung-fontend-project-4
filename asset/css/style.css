@@ -1,0 +1,255 @@
+#wrapper #header .menu ul li {
+    list-style: none;
+    padding: 0px;
+}
+
+#wrapper #header .menu ul li {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 50px;
+    padding: 10px 18px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+#wrapper #header .menu ul li a.ok {
+    color: aliceblue;
+}
+
+#wrapper #header .menu ul li a {
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 50px;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+#wrapper #header .menu ul .i {
+    background: #0077C0;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+
+#wrapper #header .menu {
+    padding: 32px 0px;
+    justify-content: space-between;
+}
+
+#wrapper #header .menu .main-menu {
+    display: flex;
+}
+
+#wrapper #wp-content #content-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+#wrapper #wp-content {
+    margin-top: 150px;
+}
+
+#wrapper #wp-content #content-1 #text h2 {
+    padding-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    color: black;
+}
+
+#wrapper #wp-content #content-1 #text p {
+    font-size: 16px;
+    line-height: 24px;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 20px;
+}
+
+#wrapper #wp-content #content-1 #content-box #content-box-1 {
+    position: relative;
+}
+
+#wp-content #content-1 #content-box #content-box-2 .img-content .img {
+    top: 0px;
+}
+
+.position-absolute {
+    position: absolute!important;
+    top: 150px;
+    right: 250px;
+}
+
+#wp-content #content-2 {
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+}
+
+#wp-content #content-3 {
+    background-color: #0077C0;
+}
+
+#wp-content #content-3 h4 {
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+#wp-content #content-3 h2 {
+    color: #FFFFFF !important;
+    font-size: 48px;
+    flex-direction: column;
+    font-weight: 700 !important;
+}
+
+
+/* #wp-content #content-1 #text #content-box--1 {
+    position: relative;
+    margin-left: 100px;
+} */
+
+#wp-content #content-3 #box {
+    display: flex;
+    justify-content: center;
+}
+
+#wp-content #content-3 #box .box-1 {
+    width: 356px;
+    height: 380px;
+}
+
+#wp-content #content-3 #box .box-1 h4 {
+    font-size: 24px;
+}
+
+#wp-content #content-3 #box .box-1 p {
+    color: #FFFFFF;
+    font-size: 16px;
+}
+
+#wp-content #content-4 {
+    margin-top: 69px;
+}
+
+#wp-content #content-4 .box-text .text {
+    color: black;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+#wp-content #content-4 .box-text #box-contennt-text .d-flex p {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.style-text {
+    background-color: #C7EEFF;
+    color: black;
+    border-radius: 50px;
+    padding: 8px 15px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    font-weight: 600px;
+    font-size: 16px;
+}
+
+#wp-content #content-5 {
+    background-color: #C7EEFF;
+}
+
+#wp-content #content-5 .container .d-flex .position {
+    position: relative;
+}
+
+#wp-content #content-5 .container .d-flex .box-center .img-center {
+    position: absolute;
+    top: 2410px;
+    right: 200px;
+}
+
+#wp-content #content-5 .container .d-flex .box-center .position {
+    background-color: #FFFFFF;
+}
+
+#wp-content #content-footer {
+    margin-top: 78px;
+    display: flex;
+    justify-items: space-between;
+    background-color: #0077C0;
+    margin-bottom: 78px;
+}
+
+#footer {
+    background-color: #000000;
+}
+
+#footer .container .d-flex #box2 a {
+    color: #FFFFFF;
+}
+
+#footer .container .d-flex #box2 ul li {
+    padding: 8px 0px;
+    list-style: none;
+}
+
+#footer .container .d-flex #box11 ul li {
+    padding: 8px 0px;
+    list-style: none;
+}
+
+#footer .container .d-flex #box11 ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: darkgray !important;
+}
+
+#footer .container .d-flex #box-11 ul li {
+    list-style: none;
+    padding: 8px 0px;
+}
+
+#footer .container .d-flex #box2 ul {
+    padding: 0px;
+}
+
+#footer .container .d-flex #box2 ul li a {
+    text-decoration: none;
+    font-size: 14px;
+    color: darkgray;
+}
+
+#footer .container .d-flex #box4 a {
+    color: #FFFFFF;
+}
+
+#footer .container .d-flex #box4 input {
+    outline: none;
+    position: relative;
+    border-radius: 10px;
+    background: #D9DBE1;
+    padding: 8px 15px;
+}
+
+#footer .container .d-flex #box4 i {
+    position: absolute;
+    right: 260px;
+    color: black;
+    top: 4400px;
+}
+
+#footer .container .d-flex #box4:hover i {
+    cursor: pointer;
+}
+
+
+/* or 75px */
